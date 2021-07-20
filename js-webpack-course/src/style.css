@@ -1,0 +1,14 @@
+body {
+	margin: 50px;
+	padding: 50px;
+	background-color: silver;
+	border: 3px solid dimgray;
+	text-align: center;
+}
+#image {
+	background: url("image.png");
+	width: 128px;
+	height: 128px;
+	background-color: red;
+	margin: 0px auto;
+}
